@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'C:/Program Files/EasyPHP-DevServer-14.1VC9/Ecommerce-0.13/app/config/routing_dev.yml'
